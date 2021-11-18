@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="customer">Rónai Tirza Hanna</string>
+    <string name="customer_title">Atriste</string>
+    <string name="customer_quote">TOBEWRITTEN</string>
+
+    <string name="developer">Gyenes "Gyeni" András Tivadar</string>
+    <string name="developer_title">Geekboi</string>
+    <string name="developer_quote">TOBEWRITTEN</string>
+
+    <string name="tester_szenyo">Szendrei "Szenyó" Balázs</string>
+    <string name="tester_szenyo_title">SQL Konzulens Úr</string>
+    <string name="tester_szenyo_quote">Angolszász nyelvterületen miért hazudnak annyi az ágyban?</string>
+
+    <string name="tester_puli">Mikle "Puli" Ármin Soma</string>
+    <string name="tester_puli_title">Lokális Fogyatékos</string>
+    <string name="tester_puli_quote">Na, akkor basszuk meg Gyeni appját</string>
+
+    <string name="tester_zseusz">Ádám "Zseusz" Zsombor</string>
+    <string name="tester_zseusz_title">TOBEWRITTEN</string>
+    <string name="tester_zseusz_quote">Na, akkor már engem is rakjál bele</string>
+
+</resources>

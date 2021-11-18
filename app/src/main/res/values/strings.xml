@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Cloudie</string>
+    <string name="date_format">YYYY. MM. DD.</string>
+    <string name="search">search</string>
+    <string name="quote_of_the_day">„ quote of the day here “</string>
+    <string name="month_name">Month</string>
+    <string name="new_quote">New Quote</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="mood_purple">Dream</string>
+    <string name="mood_pink">Love</string>
+    <string name="mood_orange">Happiness</string>
+    <string name="mood_yellow">Joke</string>
+    <string name="mood_green">Wisdom</string>
+    <string name="mood_blue">Angst</string>
+
+
+</resources>
